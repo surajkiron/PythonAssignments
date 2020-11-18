@@ -129,6 +129,7 @@ a,2   c,2   b,2   e,1   d,1
 22.	Write a program to read details of the student(name as string ,usn as int ,semester as int) in comma separated values from the keyboard and split & typecast the input based on comma delimiter and store it in list before displaying it.
 *****************************************************************************************************************************************************************************************************************************************************
 Assignment3
+
 1.Design and implement a program to create and read the contents of a file that resembles a phone book with names and phone numbers. Now alphabetically sort the phonebook.
 
 2.Design and implement a python program to create  and read a file, store it in a list of lists, with each inner list containing the product name, net weight and the unit price of a product, by name shopper_list.txt that contains the name, weight and the unit price of the products in supermarket:
