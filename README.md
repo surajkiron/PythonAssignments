@@ -129,4 +129,52 @@ a,2   c,2   b,2   e,1   d,1
 22.	Write a program to read details of the student(name as string ,usn as int ,semester as int) in comma separated values from the keyboard and split & typecast the input based on comma delimiter and store it in list before displaying it.
 *****************************************************************************************************************************************************************************************************************************************************
 Assignment3
-
+1.3	Design and implement a program to create and read the contents of a file that resembles a phone book with names and phone numbers. Now alphabetically sort the phonebook.
+2.3	Design and implement a python program to create  and read a file, store it in a list of lists, with each inner list containing the product name, net weight and the unit price of a product, by name shopper_list.txt that contains the name, weight and the unit price of the products in supermarket:
+Wheat flour  1kg  25.00
+Rice flour   1kg  40.00
+3.2	Design and implement a program to open a file and count the occurrences of each letter in the file. 
+4.3	Design and implement a program that reads a file and outputs a new file with the lines in a sorted order.
+5.3	Write a program segment that reads a text file named original_text, and displays how many times the letter ‘c’ occurs.
+6.2	 Write a Python program to count the number of lines in a text file.
+7.3	Write a Python program to get current time in milliseconds in Python using the time module.
+8.2	Write a Python program to generate random even integers in a specific numerical range using the random module
+9.3	Write a function that takes a list of integers, and returns the number of primes in the list.
+10.2	Write a program that reads a file and writes out a new file with the lines in reversed order (i.e. the first line in the old file becomes the last one in the new file.)
+11.3	Write a Python program to generate a series of unique random numbers using the random module.
+12.2	Write a Python program to read a file line by line and store it into a list.
+Write a python program to find the longest words.
+13.3	Write a python program to produce a list of unique element  from the input list which contains duplicates of the elements in the list
+Expected output:
+Input list: [1,2,3,3,3,3,5,6,9,9]
+Output list: [1,2,3,5,6,9]
+14.	Write a program that reads a file and prints only those lines that contain the substring snake.
+15.	Write a Python program to get a single random element from a specified string
+16.	Write a Python program to get a single random element from a specified string using the random module.
+17.	Write a Python program to print a string five times, delay three seconds using the time module.
+18.	Write a Python program to count the frequency of words in a file.
+19.	Design and implement a program that reads a file and prints only those lines that contain the substring “msrit”
+*********************************************************************************************************************************************************************************
+Assignment 4
+1.	a) Design and implement a python class named circle constructed by a radius and two methods which will compute the area and the perimeter of the circle.
+b) Implement a class called country, which represents a country with a name, a population, and an area. Define country with a constructor that has four parameters: country, name, population and its area.
+2.	Design and implement a python program that describes the class rocket with its attributes as x and y values. Create a fleet of 5 rockets and display its x and y positions using suitable methods inside the class.
+3.	Design and implement a program with class student having two methods with name set () but accepts different number of arguments. Include necessary methods to display the student details.
+4.	Write a function named readposint that uses the input dialog to prompt the user for a positive integer and then checks the input to confirm that it meets the requirements. It should be able to handle inputs that cannot be converted to int, as well as negative ints.
+5.	Design and implement a program that accepts two numbers separated by comma and performs a division of two numbers. Include exceptions for the necessary conditions with finally clause.
+6.	Write a Python class to find the three elements that sum to zero from a set of n real numbers.
+7.	Write an interactive program to compute the square root of a number. The input values must be tested for validity. if it is negative the user defined method MySqrt() should raise an exception.
+8.	Write a Python class to implement pow(x, n)
+9.	Write a Python class to find a pair of elements (indices of the two numbers) from a given array whose sum equals a specific target number.
+10.	Write a Python class to reverse a string word by word.
+Input string : 'hello .py'
+Expected Output : '.py hello'
+11.	Write a Python class to get all possible unique subsets from a set of distinct integers
+12.	Write a Python class which has two methods get_String and print_String. get_String accept a string from the user and print_String print the string in upper case.
+13.	Write a Python class to convert a roman numeral to an integer
+14.	Write a Python class named Rectangle constructed by a length and width and a method which will compute the area of a rectangle
+15.	Design and implement a program that accepts two numbers separated by comma and performs a division of two numbers. Include exceptions for the necessary conditions with finally clause.
+16.	Write a Python class to find a pair of elements (indices of the two numbers) from a given array whose sum equals a specific target number
+Input: numbers= [10,20,10,40,50,60,70], target=50
+Output: 3, 4
+*********************************************************************************************************************************************************************************
