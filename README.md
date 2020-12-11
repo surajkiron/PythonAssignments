@@ -1,8 +1,8 @@
 # PythonClass
 Assignment1
 1.	Design and implement a program
-  1) To prompt the user for hours ad rate per hour to compute gross pay
-  2) To print the python version that is used.
+  a) To prompt the user for hours ad rate per hour to compute gross pay
+  b) To print the python version that is used.
 2.	 Design and implement a python program to get a new string from a give string where ‘is’ has been added to the front. If the string already begins with “is” the return the string unchanged.
 3.	Design and implement a program that evaluates the value of the quadratic equation ax2+bx+c by prompting the user to enter the values of a,b,c and x.
 4.	Write a Python program to check a triangle is equilateral, isosceles or scalene.
